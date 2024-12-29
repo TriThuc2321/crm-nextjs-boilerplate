@@ -1,7 +1,7 @@
 ### Ticket
 
-Include a link to the JIRA card (if applicable). Rename your title with: [JIRA-card-ID] Title
-Example: [1045] Update bank account flow to register new bank account
+Include a link to the trello card (if applicable).
+Example: Update bank account flow to register new bank account
 
 ### Description
 
